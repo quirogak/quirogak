@@ -6,7 +6,7 @@
 <li> Dogs 🐶 & Football ⚽ enthusiast</li>
 <li> Contact me at <a href="mailto:quirogakronald@gmail.co">quirogakronald@gmail.com</a> or on <a href="https://www.linkedin.com/in/ronald-q-5800b3161/">LinkedIn</a> 📫</li>
 </ul>
-<p>Open to collaborating on interesting projects, feel free to contact me!</p>
+<p>Open to collaborate on interesting projects, feel free to contact me!</p>
 <h2>Skills</h2>
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="60px" height="60px" alt="JavaScript"></a>
